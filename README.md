@@ -3,6 +3,9 @@
 ## Description
 This is a simple chess game I made in Unity that can be played by two players over the Internet or on a single computer. The game operates on a create/join game system, where one player creates a game and gets a join code, which the other player can then use to join the game. The game can be downloaded and played at [https://pradyung.itch.io/chess](https://pradyung.itch.io/chess).
 
+<img width="446" alt="image" src="https://github.com/pradyung/Chess-Unity/assets/103707604/ea4ffdd1-9a90-4eb5-891d-b59b465bf46b">
+
+
 ## How to Play
 There are two ways to play the game:
 * Side-By-Side: This mode allows two players to play on a single device. To play side by side, click Start Game and then Side by Side.
